@@ -121,7 +121,7 @@ Here, we will install and configure SQL Server. This will add another program to
 </p>
 
 
-[Click here to return to the Security Project 1 Homepage](https://github.com/BryanEAtherton/Security-Project-1)
+[Click here to return to the Azure Honeynet Setup page](https://github.com/BryanEAtherton/Azure-Honeynet-Setup)
 </p>
 
 
